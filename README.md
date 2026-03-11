@@ -121,3 +121,7 @@ python HitSongPipeline_Unified.py
 ## AI Disclosure
 
 ChatGPT and Claude were used to assist with research, grammar correction, and code debugging throughout the project.
+
+## Data
+- `artists.csv` — included in repo
+- `songs.csv` — too large for GitHub, [download here](https://www.kaggle.com/datasets/serkantysz/550k-spotify-songs-audio-lyrics-and-genres/data)
